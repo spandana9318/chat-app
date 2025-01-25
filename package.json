@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/spandana9318/chat-app/issues"
   },
-  "homepage": "https://github.com/spandana9318/chat-app#readme",
+  "homepage": "https://github.com/spandana9318/chat-app/index.html",
   "dependencies": {
     "assert": "^2.1.0",
     "bad-words": "^3.0.0",
