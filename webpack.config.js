@@ -17,6 +17,9 @@ module.exports = {
     ],
   },
   resolve: {
+    alias: {
+      'socket.io-client': require.resolve('socket.io-client')
+    },
     fallback: {
         buffer: require.resolve("buffer/"),
         crypto: require.resolve("crypto-browserify"),
