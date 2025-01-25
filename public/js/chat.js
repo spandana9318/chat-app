@@ -1,4 +1,4 @@
-const socket = io() 
+const socket = io('https://span-node-chat-app.netlify.app', { path: '/socket.io' });
 
 // Elements
 
